@@ -11,7 +11,7 @@ Ce projet est une implémentation simple d'un load balancer en Rust, utilisant l
 
 1. Clonez ce dépôt sur votre machine locale :
 
-git clone https://github.com/LeIGrec/load-balancer-rust.git
+git clone https://github.com/LeIGrec/loadbalancerRust.git
 
 2. Accédez au répertoire du projet :
 
