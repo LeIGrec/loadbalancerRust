@@ -44,9 +44,9 @@ cargo run --bin server2
 ## Structure du projet
 
 - `src/main.rs` : Code source du load balancer
-- `server1.rs` : Code source du premier serveur backend
-- `server2.rs` : Code source du second serveur backend
-- `Cargo.toml` : Fichier de configuration Cargo pour la gestion des dépendances
+- `src/bin/server1.rs` : premier serveur backend
+- `src/bin/server2.rs` : second serveur backend
+- `Cargo.toml` : Fichier de conf Cargo pour la gestion des dépendances
 
 ## Licence
 
